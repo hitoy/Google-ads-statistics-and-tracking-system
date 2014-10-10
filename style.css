@@ -1,0 +1,11 @@
+@charset "utf-8";
+/*common*/
+body{margin:0 auto; padding:0px; margin:0px; font-size:12px; color:rgb(72,76,83);background-color:rgb(242,242,242);line-height:22px}
+/*{margin:0px;padding:0px;border:0px;}*/
+td, th {text-align: center;}
+a{text-decoration:none;color:rgb(89,87,87)}  
+a:hover{ text-decoration:underline;}
+li{list-style:none;}
+.clear{clear:both}
+.l{float:left;}
+.r{float:right;} 
